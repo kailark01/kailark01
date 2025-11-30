@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm **Kai Lark**
 
-<!--
-**kailark01/kailark01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+* 🌱 I know a little bit of coding and always learning more.
+* 🐧 Proud Linux user who loves customizing my OS and tweaking every detail.
+* 👐 Open-source enjoyer — I love using, sharing, and contributing to free-to-use code.
+* 🎯 Currently exploring more tools, languages, and projects to grow my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Interests
+
+* **Linux distros & customization**
+* **Open-source projects**
+* **Small coding projects** (Node.js / Python basics)
+* **Automating tasks**
+* **Self-hosting & tinkering**
+
+---
+
+### 📂 What You'll Find Here
+
+* Personal experiments
+* Small scripts
+* Open-source projects I use and remix
+* Config files & Linux setups
+* Bots and small utilities
+
+---
+
+### ✨ Motto
+
+> *"If it's open-source and hackable, I'm interested."*
