@@ -1,34 +1,34 @@
-# 👋 Hi, I'm **Kai Lark**
+# Kai — Vibe Coding Enjoyer
 
-### 🧑‍💻 About Me
+### 👋 Yo, I'm **Kai** (aka **kailark01**)
 
-* 🌱 I know a little bit of coding and always learning more.
-* 🐧 Proud Linux user who loves customizing my OS and tweaking every detail.
-* 👐 Open-source enjoyer — I love using, sharing, and contributing to free-to-use code.
-* 🎯 Currently exploring more tools, languages, and projects to grow my skills.
+Just a chill person who vibes with code, even if I'm not a hardcore programmer.
+I mostly mess around, try stuff, break stuff, fix stuff… then break it again.
 
 ---
 
-### 🔧 Tech Interests
+### 🧪 What I Do (Vibe Edition)
 
-* **Linux distros & customization**
-* **Open-source projects**
-* **Small coding projects** (Node.js / Python basics)
-* **Automating tasks**
-* **Self-hosting & tinkering**
-
----
-
-### 📂 What You'll Find Here
-
-* Personal experiments
-* Small scripts
-* Open-source projects I use and remix
-* Config files & Linux setups
-* Bots and small utilities
+* 🌐 Know a bit of **HTML**, enough to make cool pages
+* 🐧 Customize my **Linux distro** until it breaks
+* 💻 Learn random tech things at 3AM
+* 📦 Collect and enjoy **free-to-use open-source code**
+* 🔧 Tweak configs just because it’s fun
 
 ---
 
-### ✨ Motto
+### 📂 My Repos (When I Actually Make Some)
 
-> *"If it's open-source and hackable, I'm interested."*
+For now it’s empty.
+But soon? Maybe:
+
+* ✨ cool HTML pages
+* 🔧 scripts I yoinked then modified
+* 🐧 Linux configs
+* 💬 random experiments
+
+---
+
+### 🎧 Coding Vibes
+
+> *"I may not know everything, but I’m vibing while learning it."*
