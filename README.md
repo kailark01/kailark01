@@ -27,8 +27,7 @@
 ---
 
 ## Stats
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailark01&show_icons=true&hide_title=true&theme=transparent)
-
-</div>
+- 📁 Public Repos: 0–?  
+- 📈 Contributions: Updating  
+- 🧪 Activity: Learning and experimenting  
+- 🌱 Progress: Improving step by step  
