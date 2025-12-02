@@ -1,26 +1,34 @@
-Kai ✦
-🌱 Learning • 📚 Exploring • 🛠️ Building Slowly
-About Me
+# Kai ✦
 
-🌸 Currently learning HTML and basic coding
+### 🌱 Learning • 📚 Exploring • 🛠️ Building Slowly
 
-📂 Using GitHub to stay organized
+---
 
-🎧 Enjoys experimenting with simple projects
+## About Me
+- 🌸 Currently learning HTML and basic coding  
+- 📂 Using GitHub to stay organized  
+- 🎧 Enjoys experimenting with simple projects  
+- ✨ Improving step by step — no rush  
 
-✨ Improving step by step — no rush
+---
 
-Skills
-<div> <img src="https://skillicons.dev/icons?i=linux,github" /> </div>
-Goals
+## Skills
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,github" />
+</div>
 
-📘 Understand coding fundamentals
+---
 
-🧩 Create small, simple, functional projects
+## Goals
+- 📘 Understand coding fundamentals  
+- 🧩 Create small, simple, functional projects  
+- 📈 Learn consistently and steadily  
 
-📈 Learn consistently and steadily
+---
 
-Stats
+## Stats
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailark01&show_icons=true&hide_title=true&theme=transparent)
 
 </div>
