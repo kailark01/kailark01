@@ -1,34 +1,26 @@
-# Kai — Vibe Coding Enjoyer
+Kai ✦
+🌱 Learning • 📚 Exploring • 🛠️ Building Slowly
+About Me
 
-### 👋 Yo, I'm **Kai** (aka **kailark01**)
+🌸 Currently learning HTML and basic coding
 
-Just a chill person who vibes with code, even if I'm not a hardcore programmer.
-I mostly mess around, try stuff, break stuff, fix stuff… then break it again.
+📂 Using GitHub to stay organized
 
----
+🎧 Enjoys experimenting with simple projects
 
-### 🧪 What I Do (Vibe Edition)
+✨ Improving step by step — no rush
 
-* 🌐 Know a bit of **HTML**, enough to make cool pages
-* 🐧 Customize my **Linux distro** until it breaks
-* 💻 Learn random tech things at 3AM
-* 📦 Collect and enjoy **free-to-use open-source code**
-* 🔧 Tweak configs just because it’s fun
+Skills
+<div> <img src="https://skillicons.dev/icons?i=linux,github" /> </div>
+Goals
 
----
+📘 Understand coding fundamentals
 
-### 📂 My Repos (When I Actually Make Some)
+🧩 Create small, simple, functional projects
 
-For now it’s empty.
-But soon? Maybe:
+📈 Learn consistently and steadily
 
-* ✨ cool HTML pages
-* 🔧 scripts I yoinked then modified
-* 🐧 Linux configs
-* 💬 random experiments
+Stats
+<div align="center">
 
----
-
-### 🎧 Coding Vibes
-
-> *"I may not know everything, but I’m vibing while learning it."*
+</div>
